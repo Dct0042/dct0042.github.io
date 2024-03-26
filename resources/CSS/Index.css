@@ -1,0 +1,62 @@
+.navbar {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+.banner {
+    background-color: #00224D;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding: 50px 0;
+}
+
+#small-rug {
+    height: 300px;
+    width: 500px;
+    filter: drop-shadow(1px 1px 1px black);
+
+}
+
+.dude-section {
+    padding: 20px 50px;
+}
+
+#Dude {
+    color: #5D0E41;
+    font-size: 50px;
+}
+
+#greets ul {
+    list-style-type: none;
+}
+
+.avatar {
+    background-image: url(../Images/dude_icon3.png);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+a.blue {
+    color: blue;
+}
